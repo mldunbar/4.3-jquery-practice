@@ -1,7 +1,12 @@
 (function(){
   'use strict';
+});
 
   $(document).ready(function(){
-    $('body').prepend(JST['application']());
+    $('.subheadings').hide();
   });
-})();
+
+$('.headings').click(function(){
+  $('.subheadings').slideUp("slow", function(){});
+  $(this).next().slideDown("slow", function(){});
+});
