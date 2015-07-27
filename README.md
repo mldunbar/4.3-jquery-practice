@@ -1,3 +1,7 @@
+# jQuery dropdown list
+
+This assignment introduced jQuery DOM manipulation and traversal. It's a simpl dropdown menu
+
 # Prepare your scaffolding
 
 Clone this repo:
