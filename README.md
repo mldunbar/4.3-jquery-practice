@@ -1,6 +1,6 @@
 # jQuery dropdown list
 
-This assignment introduced jQuery DOM manipulation and traversal. It's a simpl dropdown menu
+This assignment introduced jQuery DOM manipulation and traversal. It's a simple dropdown menu.
 
 # Prepare your scaffolding
 
